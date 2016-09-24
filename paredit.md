@@ -3,5 +3,5 @@
   2. Unwrap expresisons: M-s
   
 ## Working with words
-  1. Swap words: M-<left> or M-<right>
-  2. Include words in a expression C-<right>
+  1. Swap words: M-<left>/M-<right>
+  2. Include/exclout a word in an expression C-<right>/C-<left>
